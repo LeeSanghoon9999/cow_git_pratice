@@ -1,3 +1,5 @@
-const name= "상훈"
-const name2 = "1111"
+const name= "상훈";
+const group = "cow";
 
+const branch = "sub2";
+const branch2 = "main";
